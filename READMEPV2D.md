@@ -29,8 +29,9 @@
 
 ### 1. Capítulo / Escenario  
 [![Ver PDF](https://img.icons8.com/ios-filled/50/000000/pdf.png)](https://drive.google.com/file/d/1Z3j6JW0pJfJjthZcklywj61w9G6BXWHs/view?usp=sharing)
-* 2-Capitulo/Movimiento y salto 
-  * ><a href="https://drive.google.com/file/d/1Z3j6JW0pJfJjthZcklywj61w9G6BXWHs/view?usp=sharing">PDF</a> 
+### 2-Capitulo/Movimiento y salto 
+  [![Ver PDF](https://img.icons8.com/ios-filled/50/000000/pdf.png)](https://drive.google.com/file/d/1Z3j6JW0pJfJjthZcklywj61w9G6BXWHs/view?usp=sharing)
+    >
 * 3-Capitulo/Gecoger Frutas 
   * ><a href="https://drive.google.com/file/d/1Z3j6JW0pJfJjthZcklywj61w9G6BXWHs/view?usp=sharing">PDF</a>  
 * 4-Capitulo/Animaciones 2D
