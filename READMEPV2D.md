@@ -27,29 +27,35 @@
 
 ## Temas
 
-### 1. Capítulo / Escenario  
+### 1. Capítulo / Escenario 
+
 [![Ver PDF](https://img.icons8.com/ios-filled/50/000000/pdf.png)](https://drive.google.com/file/d/1Z3j6JW0pJfJjthZcklywj61w9G6BXWHs/view?usp=sharing)
 ### 2-Capitulo/Movimiento y salto 
+[![Ver PDF](https://img.icons8.com/ios-filled/50/000000/pdf.png)](https://drive.google.com/file/d/1Z3j6JW0pJfJjthZcklywj61w9G6BXWHs/view?usp=sharing)
+  
+### 3-Capitulo/Gecoger Frutas 
   [![Ver PDF](https://img.icons8.com/ios-filled/50/000000/pdf.png)](https://drive.google.com/file/d/1Z3j6JW0pJfJjthZcklywj61w9G6BXWHs/view?usp=sharing)
-    >
-* 3-Capitulo/Gecoger Frutas 
-  * ><a href="https://drive.google.com/file/d/1Z3j6JW0pJfJjthZcklywj61w9G6BXWHs/view?usp=sharing">PDF</a>  
-* 4-Capitulo/Animaciones 2D
-  * ><a href="https://drive.google.com/file/d/1Z3j6JW0pJfJjthZcklywj61w9G6BXWHs/view?usp=sharing">PDF</a> 
-* 5-Capitulo/Enemigos
-  * ><a href="https://drive.google.com/file/d/1Z3j6JW0pJfJjthZcklywj61w9G6BXWHs/view?usp=sharing">PDF</a> 
-* 6-Capitulo/Nuevos Niveles
-  * ><a href="https://drive.google.com/file/d/1Z3j6JW0pJfJjthZcklywj61w9G6BXWHs/view?usp=sharing">PDF</a>   
-* 7-Capitulo/CheckPoint
-  * ><a href="https://drive.google.com/file/d/1Z3j6JW0pJfJjthZcklywj61w9G6BXWHs/view?usp=sharing">PDF</a> 
-* 8-Capitulo/Hit y transición
-  * ><a href="https://drive.google.com/file/d/1Z3j6JW0pJfJjthZcklywj61w9G6BXWHs/view?usp=sharing">PDF</a> 
-* 9-Capitulo/Doble salto y caida
-  * ><a href="https://drive.google.com/file/d/1Z3j6JW0pJfJjthZcklywj61w9G6BXWHs/view?usp=sharing">PDF</a> 
-* 10-Capitulo/Plataformas de doble sentido
-  * ><a href="https://drive.google.com/file/d/1Z3j6JW0pJfJjthZcklywj61w9G6BXWHs/view?usp=sharing">PDF</a> 
-* 11-Capitulo/Skins - Nuevos personajes
-  * ><a href="https://drive.google.com/file/d/1Z3j6JW0pJfJjthZcklywj61w9G6BXWHs/view?usp=sharing">PDF</a> 
+### 4-Capitulo/Animaciones 2D
+ [![Ver PDF](https://img.icons8.com/ios-filled/50/000000/pdf.png)](https://drive.google.com/file/d/1Z3j6JW0pJfJjthZcklywj61w9G6BXWHs/view?usp=sharing)
+### 5-Capitulo/Enemigos
+ [![Ver PDF](https://img.icons8.com/ios-filled/50/000000/pdf.png)](https://drive.google.com/file/d/1Z3j6JW0pJfJjthZcklywj61w9G6BXWHs/view?usp=sharing)
+### 6-Capitulo/Nuevos Niveles
+[![Ver PDF](https://img.icons8.com/ios-filled/50/000000/pdf.png)](https://drive.google.com/file/d/1Z3j6JW0pJfJjthZcklywj61w9G6BXWHs/view?usp=sharing)
+* > En este conjunto de lecciones la temática desarrollada fue con respecto a las colliciones y las animaciones, tanto del player y los objetos
+  > que reaccionan a los otrso box collinder. 
+
+### 7-Capitulo/CheckPoint
+ [![Ver PDF](https://img.icons8.com/ios-filled/50/000000/pdf.png)](https://drive.google.com/file/d/1Z3j6JW0pJfJjthZcklywj61w9G6BXWHs/view?usp=sharing)
+### 8-Capitulo/Hit y transición
+  [![Ver PDF](https://img.icons8.com/ios-filled/50/000000/pdf.png)](https://drive.google.com/file/d/1Z3j6JW0pJfJjthZcklywj61w9G6BXWHs/view?usp=sharing)
+### 9-Capitulo/Doble salto y caida
+ [![Ver PDF](https://img.icons8.com/ios-filled/50/000000/pdf.png)](https://drive.google.com/file/d/1Z3j6JW0pJfJjthZcklywj61w9G6BXWHs/view?usp=sharing)
+### 10-Capitulo/Plataformas de doble sentido
+[![Ver PDF](https://img.icons8.com/ios-filled/50/000000/pdf.png)](https://drive.google.com/file/d/1Z3j6JW0pJfJjthZcklywj61w9G6BXWHs/view?usp=sharing)
+### 11-Capitulo/Skins - Nuevos personajes
+ [![Ver PDF](https://img.icons8.com/ios-filled/50/000000/pdf.png)](https://drive.google.com/file/d/1Z3j6JW0pJfJjthZcklywj61w9G6BXWHs/view?usp=sharing)
+### 12-Capitulo/Skins - Nuevos personajes
+ [![Ver PDF](https://img.icons8.com/ios-filled/50/000000/pdf.png)](https://drive.google.com/file/d/1Z3j6JW0pJfJjthZcklywj61w9G6BXWHs/view?usp=sharing)
 
 ## Planificación
 
