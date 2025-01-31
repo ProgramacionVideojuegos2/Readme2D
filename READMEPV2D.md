@@ -27,23 +27,28 @@
 
 ## Temas
 
-* 1-Capitulo/Escenario 
-  * ><a href="https://drive.google.com/file/d/1Z3j6JW0pJfJjthZcklywj61w9G6BXWHs/view?usp=sharing">PDF</a> 
+### 1. Capítulo / Escenario  
+[![Ver PDF](https://img.icons8.com/ios-filled/50/000000/pdf.png)](https://drive.google.com/file/d/1Z3j6JW0pJfJjthZcklywj61w9G6BXWHs/view?usp=sharing)
 * 2-Capitulo/Movimiento y salto 
-  * >
+  * ><a href="https://drive.google.com/file/d/1Z3j6JW0pJfJjthZcklywj61w9G6BXWHs/view?usp=sharing">PDF</a> 
 * 3-Capitulo/Gecoger Frutas 
-  
+  * ><a href="https://drive.google.com/file/d/1Z3j6JW0pJfJjthZcklywj61w9G6BXWHs/view?usp=sharing">PDF</a>  
 * 4-Capitulo/Animaciones 2D
-
+  * ><a href="https://drive.google.com/file/d/1Z3j6JW0pJfJjthZcklywj61w9G6BXWHs/view?usp=sharing">PDF</a> 
 * 5-Capitulo/Enemigos
-
+  * ><a href="https://drive.google.com/file/d/1Z3j6JW0pJfJjthZcklywj61w9G6BXWHs/view?usp=sharing">PDF</a> 
 * 6-Capitulo/Nuevos Niveles
-  
+  * ><a href="https://drive.google.com/file/d/1Z3j6JW0pJfJjthZcklywj61w9G6BXWHs/view?usp=sharing">PDF</a>   
 * 7-Capitulo/CheckPoint
+  * ><a href="https://drive.google.com/file/d/1Z3j6JW0pJfJjthZcklywj61w9G6BXWHs/view?usp=sharing">PDF</a> 
 * 8-Capitulo/Hit y transición
+  * ><a href="https://drive.google.com/file/d/1Z3j6JW0pJfJjthZcklywj61w9G6BXWHs/view?usp=sharing">PDF</a> 
 * 9-Capitulo/Doble salto y caida
+  * ><a href="https://drive.google.com/file/d/1Z3j6JW0pJfJjthZcklywj61w9G6BXWHs/view?usp=sharing">PDF</a> 
 * 10-Capitulo/Plataformas de doble sentido
-* 11-Capitulo/Skins - Nuevos personajes 
+  * ><a href="https://drive.google.com/file/d/1Z3j6JW0pJfJjthZcklywj61w9G6BXWHs/view?usp=sharing">PDF</a> 
+* 11-Capitulo/Skins - Nuevos personajes
+  * ><a href="https://drive.google.com/file/d/1Z3j6JW0pJfJjthZcklywj61w9G6BXWHs/view?usp=sharing">PDF</a> 
 
 ## Planificación
 
