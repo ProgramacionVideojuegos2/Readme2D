@@ -5,9 +5,7 @@
   <p align="center">
     Programación de Videojuegos 2D
     <br>
-    <a href="https://reponame/issues/new?template=bug.md">Report bug</a>
-    ·
-    <a href="https://reponame/issues/new?template=feature.md&labels=feature">Request feature</a>
+   
   </p>
 </p>
 
