@@ -1,6 +1,6 @@
 # Creación de Video Juego 2D
 <p align="center">
-    <img src="[https://wallpapercave.com/wp/wp7854191.jpg](https://i.pinimg.com/originals/02/01/1e/02011ec8554277b8c70bf22fb192123c.gif)" alt="Logo" width=1200 height=300>
+    <img src="(https://i.pinimg.com/originals/02/01/1e/02011ec8554277b8c70bf22fb192123c.gif)" alt="Logo" width=1200 height=300>
 
   <p align="center">
     Programación de Videojuegos 2D
