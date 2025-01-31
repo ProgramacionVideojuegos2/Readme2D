@@ -27,11 +27,10 @@
 
 ## Temas
 
-* 1-Capitulo/Escenario
-  * > 
-  * ><a href="https://drive.google.com/file/d/1VIQydYZ3vDcm753kaNkYkQZKlxu_rBJ5/view?usp=drive_link">Link de descarga</a> 
+* 1-Capitulo/Escenario 
+  * ><a href="https://drive.google.com/file/d/1Z3j6JW0pJfJjthZcklywj61w9G6BXWHs/view?usp=sharing">PDF</a> 
 * 2-Capitulo/Movimiento y salto 
-  
+  * >
 * 3-Capitulo/Gecoger Frutas 
   
 * 4-Capitulo/Animaciones 2D
