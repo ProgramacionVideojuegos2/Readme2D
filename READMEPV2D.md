@@ -1,6 +1,6 @@
 # Creación de Video Juego 2D
 <p align="center">
-    <img src="https://i.pinimg.com/736x/c3/9e/00/c39e00a600cac87fc02becba65361d02.jpg" alt="Logo" width=900 height=300>
+    <img src="[https://i.pinimg.com/736x/c3/9e/00/c39e00a600cac87fc02becba65361d02.jpg](https://i.pinimg.com/736x/24/49/05/244905a53d441a00074d8584d8491a9d.jpg)" alt="Logo" width=900 height=300>
 
   <p align="center">
     Programación de Videojuegos 2D
