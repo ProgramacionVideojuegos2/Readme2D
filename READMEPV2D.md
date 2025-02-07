@@ -52,8 +52,22 @@
 [![Ver PDF](https://img.icons8.com/ios-filled/50/000000/pdf.png)](https://drive.google.com/file/d/1p67QUqyFE29UnE2D2SxZDBeb65RQ8Syx/view?usp=sharing)
 ### 11-Capitulo/Skins - Nuevos personajes
  [![Ver PDF](https://img.icons8.com/ios-filled/50/000000/pdf.png)](https://drive.google.com/file/d/13C7s7CK0pSPjfibKXaHiBz5KOUMLGWfq/view?usp=sharing)
-### 12-Capitulo/Skins - Nuevos personajes
+### 12-Capitulo/Menu principal 
  [![Ver PDF](https://img.icons8.com/ios-filled/50/000000/pdf.png)](https://drive.google.com/file/d/1Z3j6JW0pJfJjthZcklywj61w9G6BXWHs/view?usp=sharing)
+* > En este conjunto de lecciones la temática fue trabajar en los detalles que hacen al videojuego má interesante, se trabajo en aquelosdetalles que
+  >  hacen al juego más entretenido para quien lo esta juegando.
+    
+### 13-Capitulo/Menu principal segunda parte 
+ [![Ver PDF](https://img.icons8.com/ios-filled/50/000000/pdf.png)](https://drive.google.com/file/d/1Z3j6JW0pJfJjthZcklywj61w9G6BXWHs/view?usp=sharing)
+### 14-Capitulo/Controles Para Movil
+ [![Ver PDF](https://img.icons8.com/ios-filled/50/000000/pdf.png)](https://drive.google.com/file/d/1Z3j6JW0pJfJjthZcklywj61w9G6BXWHs/view?usp=sharing)
+### 15-Capitulo/Score & Nuevo nivel 
+ [![Ver PDF](https://img.icons8.com/ios-filled/50/000000/pdf.png)](https://drive.google.com/file/d/1Z3j6JW0pJfJjthZcklywj61w9G6BXWHs/view?usp=sharing)
+### 16-Capitulo/Menu, pausa & options 
+ [![Ver PDF](https://img.icons8.com/ios-filled/50/000000/pdf.png)](https://drive.google.com/file/d/1Z3j6JW0pJfJjthZcklywj61w9G6BXWHs/view?usp=sharing)
+### 17-Capitulo/Inteligencia artificial. 
+ [![Ver PDF](https://img.icons8.com/ios-filled/50/000000/pdf.png)](https://drive.google.com/file/d/1Z3j6JW0pJfJjthZcklywj61w9G6BXWHs/view?usp=sharing)
+
 
 ## Planificación
 
