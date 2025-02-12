@@ -64,10 +64,19 @@
 ### 15-Capitulo/Score & Nuevo nivel 
  [![Ver PDF](https://img.icons8.com/ios-filled/50/000000/pdf.png)](https://drive.google.com/file/d/1WMJ0VX2CkXIUBm9Iht4NfLA3E9MirtGN/view?usp=sharing)
 ### 16-Capitulo/Menu, pausa & options 
-
+ [![Ver PDF](https://img.icons8.com/ios-filled/50/000000/pdf.png)](https://drive.google.com/file/d/1jQw4bS2Hyzr6fcPzxeCPS8OmCsoGk5CQ/view?usp=sharing)
 ### 17-Capitulo/Inteligencia artificial. 
+ [![Ver PDF](https://img.icons8.com/ios-filled/50/000000/pdf.png)](https://drive.google.com/file/d/1XB_aAhrqDy1ZyweMOUvOun2Da6UK6bge/view?usp=sharing)
+### 18-Capitulo/Inteligencia artificial P2. 
+[![Ver PDF](https://img.icons8.com/ios-filled/50/000000/pdf.png)](https://drive.google.com/file/d/1N-GbiPIwkhlDsV0EdjyWjd8Drw_GRR6D/view?usp=sharing)
+### 19-Capitulo/Musica y Sonido. 
+[![Ver PDF](https://img.icons8.com/ios-filled/50/000000/pdf.png)](https://drive.google.com/file/d/18JhYBMboqc99ciT4LaMlofKWfTqW_dSN/view?usp=sharing)
+### 20-Capitulo/Trampolin. 
+[![Ver PDF](https://img.icons8.com/ios-filled/50/000000/pdf.png)](https://drive.google.com/file/d/1QGLGy--v-t_sab3GpFRm5No8bSy-EUA_/view?usp=sharing)
 
+### Video Evidencia de el producto final. 
 
+## Package
 
 ## Planificación
 
