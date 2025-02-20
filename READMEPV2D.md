@@ -76,10 +76,11 @@
 ### 26-Capitulo/Particula Polvo. 
 [![Ver PDF](https://img.icons8.com/ios-filled/50/000000/pdf.png)](https://drive.google.com/file/d/1fSX4mgRAxTm2789ZT6fv2cErICnT6-7x/view?usp=sharing)
 ### Video Evidencia de el producto final. 
-
-## Package
-
-## Planificación
+[![Ver Video](https://img.icons8.com/ios-filled/30/000000/play.png)](https://drive.google.com/file/d/14e6sqfvd5ZQpnsPwmrsARvgPDiBTP1AL/view?usp=drive_link)  
+## Package Plataforma 2D
+[![Descargar Paquete](https://img.icons8.com/ios-filled/30/000000/zip.png)](https://drive.google.com/file/d/1IBCfaXquoAyFZxYNHjpaAQzCEVSIYHw_/view?usp=sharing)
+## Videojuego 2D
+[![Descargar Paquete](https://img.icons8.com/ios-filled/30/000000/zip.png)](https://drive.google.com/file/d/1o33rpJw40vfbClL5cW7qB--QvGCGy_8y/view?usp=sharing)
 
 ## Autores
 Alma Gisela Serna Camarillo
